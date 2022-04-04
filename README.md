@@ -9,3 +9,7 @@ Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Jav
 Front-End   - Intermediário
 
 **ESPECIALISTA:** Gabriela Pinheiro - Frontend Engineer
+______________
+### Parte 1: 
+
+Referências: https://www.cleanpng.com/  
