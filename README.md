@@ -13,3 +13,9 @@ ______________
 ### Parte 1: 
 
 Referências: https://www.cleanpng.com/  
+
+Criação da estrutura do arquivo index, inserindo o background-imagem e o heroi
+
+### Parte 2: 
+
+Criando interação com JavaScript 
