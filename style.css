@@ -11,7 +11,7 @@ body {
 
 }
 
-#main-play-area {
+#main-play-area { 
   background-color: black;
   background-image: url(/img/hero.png);
   height: 600px;

@@ -14,8 +14,12 @@ ______________
 
 Referências: https://www.cleanpng.com/  
 
-Criação da estrutura do arquivo index, inserindo o background-imagem e o heroi
+- Criação da estrutura do arquivo index, inserindo o background-imagem e o heroi
 
 ### Parte 2: 
 
-Criando interação com JavaScript 
+- Criando interação com JavaScript 
+
+### Parte 3: 
+
+- Criação da função para descer e subir a nave
