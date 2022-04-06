@@ -27,3 +27,7 @@ Referências: https://www.cleanpng.com/
 ### Parte 4: 
 
 - Criação da função tiro
+
+### Parte 5: 
+
+- Usando a função tiro para criar interação no jogo
