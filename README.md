@@ -31,3 +31,11 @@ Referências: https://www.cleanpng.com/
 ### Parte 5: 
 
 - Usando a função tiro para criar interação no jogo
+
+### Parte 6: 
+
+- Criação da função para criar inimigos alienigenas
+
+### Parte 7: 
+
+- Criação da função para movimentar inimigos alienigenas
