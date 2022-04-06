@@ -22,4 +22,8 @@ Referências: https://www.cleanpng.com/
 
 ### Parte 3: 
 
-- Criação da função para descer e subir a nave
+- Criação das funções para descer e subir a nave
+
+### Parte 4: 
+
+- Criação da função tiro
