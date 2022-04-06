@@ -39,3 +39,5 @@ Referências: https://www.cleanpng.com/
 ### Parte 7: 
 
 - Criação da função para movimentar inimigos alienigenas
+
+![Print, Criando seu jogo no estilo Space Shooter](/img/pritnTelaJogo.png)
