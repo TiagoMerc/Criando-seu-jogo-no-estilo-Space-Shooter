@@ -17,6 +17,22 @@
     height: 600px;
     width: 600px;
   }
+  /* Instruções de jogo*/
+
+  .game-instructions {
+    position: relative;
+    color: white;
+    left: 7rem;
+    top: 0px;
+  }
+
+.start-button {
+  position: relative;
+  color: white;
+  top: 9rem;
+  left: 15rem;
+  cursor: pointer;
+  }
 
   .player-shooter {
     position: relative;
@@ -32,9 +48,15 @@
     height: 30px;
   }
 
+  .alien {
+     height: 60px;
+     width: 70px;
+     position: relative;
+  }
+
   .alien-transition {
     opacity: 1;
-    transition: opacity 1.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
   }
 
   .dead-alien {
@@ -43,3 +65,4 @@
     position: relative;
     opacity: 0;
   }
+

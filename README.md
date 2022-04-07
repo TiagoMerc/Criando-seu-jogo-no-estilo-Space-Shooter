@@ -40,4 +40,14 @@ Referências: https://www.cleanpng.com/
 
 - Criação da função para movimentar inimigos alienigenas
 
+### Parte 8: 
+
+- Criação a função  para iniciar o jogo e Game Over. Atualizando o arquivo index para um jogo mais intuitivo.
+
+
 ![Print, Criando seu jogo no estilo Space Shooter](/img/pritnTelaJogo.png)
+
+![Print2, Criando seu jogo no estilo Space Shooter](/img/prntTela2.png)
+
+
+![Print3, Criando seu jogo no estilo Space Shooter](/img/PrintTela3.png)
