@@ -47,7 +47,7 @@ Referências: https://www.cleanpng.com/
 
 ![Print, Criando seu jogo no estilo Space Shooter](/img/pritnTelaJogo.png)
 
-![Print2, Criando seu jogo no estilo Space Shooter](/img/prntTela2.png)
+![Print2, Criando seu jogo no estilo Space Shooter](/img/PrntTela2.png)
 
 
 ![Print3, Criando seu jogo no estilo Space Shooter](/img/PrintTela3.png)
